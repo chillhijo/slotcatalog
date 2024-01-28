@@ -1,0 +1,35 @@
+1. Ucitamo for_ripping file
+2. Pokupimo iz njega game i provider atribute
+3. Otvorimo website
+4. U search bar unesemo game i submitujemo
+5. Provjerimo pretragu
+
+    5.1. Imamo jedan rezultat
+    5.2. Imamo vise rezultata
+    5.3. Nemamo rezultata
+
+6. Ukoliko imamo samo jedan rezultat, kliknemo na njega, otvorimo stranicu i pokupimo potrebne atribute
+7. Ukoliko imamo vise rezultata
+
+    7.1. Napravimo metodu za podudaranje
+    7.2. Pokupimo rezultate i stavimo ih u listu
+
+        7.2.1. Za svaki rezultat pokupimo text
+        7.2.2. Podjelimo text u sekcije, p, span i bez spana
+        7.2.3. Ukoliko u dijelu bez spana postoji dio sa "()" obrisemo ga i dodamo span, u suprotnom samo dodamo span
+        7.2.4. Uporedim taj text sa prosljedjenim gameName + ( providerName) iz for ripping filea
+        7.2.5. Ukoliko je podudarnost veca od 0.9 mozemo uzeti taj rezultat kao ispravan i kliknuti na njega
+
+            7.2.5.1. Otvorimo stranicu i pokupimo potrebne atribute
+
+        7.2.6. Ukoliko je rezultat manji od 0.9
+
+            7.2.6.1. Izbacimo apostrofe iz gameName i uradimo ponovnu pretragu
+            7.2.6.2. Ukoliko nakon druge pretrage nema rezultate probacemo sledece
+
+        7.3.1. Separatisemo po space-u
+
+            7.3.1.1. ako ima samo jednu sekciju nista, to smo vec pronali obicnom pretragom
+            7.3.1.2. ukoliko ima vise uzmemo prve dve i uradimo ponovnu pretragu
+
+        7.4.1. Ako nema rezultata, upisujemo ih u file da nismo pronasli igru

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-19T13:06:52.248825300Z</date>
+  <millis>1702991212248</millis>
+  <nanos>825300</nanos>
+  <sequence>3</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>HomePage instance created.</message>
+</record>
+<record>
+  <date>2023-12-19T13:06:54.014624200Z</date>
+  <millis>1702991214014</millis>
+  <nanos>624200</nanos>
+  <sequence>4</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Home page verification completed.</message>
+</record>
+<record>
+  <date>2023-12-19T13:06:57.443933300Z</date>
+  <millis>1702991217443</millis>
+  <nanos>933300</nanos>
+  <sequence>5</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Basic information retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:06:58.088481500Z</date>
+  <millis>1702991218088</millis>
+  <nanos>481500</nanos>
+  <sequence>6</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Slot game attributes retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:06:58.088481500Z</date>
+  <millis>1702991218088</millis>
+  <nanos>481500</nanos>
+  <sequence>7</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Game attributes checked successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:06:58.157196100Z</date>
+  <millis>1702991218157</millis>
+  <nanos>196100</nanos>
+  <sequence>8</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Game description retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:11.692252200Z</date>
+  <millis>1702991231692</millis>
+  <nanos>252200</nanos>
+  <sequence>9</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Basic information retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:12.458268500Z</date>
+  <millis>1702991232458</millis>
+  <nanos>268500</nanos>
+  <sequence>10</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Slot game attributes retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:12.458268500Z</date>
+  <millis>1702991232458</millis>
+  <nanos>268500</nanos>
+  <sequence>11</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Game attributes checked successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:12.618442Z</date>
+  <millis>1702991232618</millis>
+  <nanos>442000</nanos>
+  <sequence>12</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Game description retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:16.526811900Z</date>
+  <millis>1702991236526</millis>
+  <nanos>811900</nanos>
+  <sequence>13</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Basic information retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:17.161810800Z</date>
+  <millis>1702991237161</millis>
+  <nanos>810800</nanos>
+  <sequence>14</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Slot game attributes retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:17.162810600Z</date>
+  <millis>1702991237162</millis>
+  <nanos>810600</nanos>
+  <sequence>15</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Game attributes checked successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:17.247807400Z</date>
+  <millis>1702991237247</millis>
+  <nanos>807400</nanos>
+  <sequence>16</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Game description retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:21.210766600Z</date>
+  <millis>1702991241210</millis>
+  <nanos>766600</nanos>
+  <sequence>17</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Basic information retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:22.276329200Z</date>
+  <millis>1702991242276</millis>
+  <nanos>329200</nanos>
+  <sequence>18</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Slot game attributes retrieved successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:22.276329200Z</date>
+  <millis>1702991242276</millis>
+  <nanos>329200</nanos>
+  <sequence>19</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Game attributes checked successfully.</message>
+</record>
+<record>
+  <date>2023-12-19T13:07:22.426047400Z</date>
+  <millis>1702991242426</millis>
+  <nanos>47400</nanos>
+  <sequence>20</sequence>
+  <logger>util.AppLogger</logger>
+  <level>INFO</level>
+  <class>util.AppLogger</class>
+  <method>info</method>
+  <thread>1</thread>
+  <message>Game description retrieved successfully.</message>
+</record>
+</log>
